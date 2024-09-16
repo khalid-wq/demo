@@ -204,7 +204,7 @@ body {
   background-color: var(--nav-main-bg-color);
 }
 .slider-section .slider-text {
-  width: 1500px;
+  width: 2000px;
   color: gray;
   font-size: large;
   display: flex;
